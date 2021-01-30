@@ -1,0 +1,3 @@
+# gitexample
+desc
+git ignore
